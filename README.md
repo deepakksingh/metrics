@@ -1,2 +1,2 @@
 # metrics
-understanding and code of commonly encountered metrics
+understanding, and code of commonly encountered metrics
